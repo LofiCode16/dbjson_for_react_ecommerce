@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Copa de helado",
+    "image": "https://www.ken-foods.com/wp-content/uploads/2018/07/el-origen-del-helado-e1530726550260.jpg",
+    "extraInfo": "Copa de 600 ml",
+    "price": 2490
+  },
+  {
+    "id": 2,
+    "name": "Galletas con chispas",
+    "image": "https://www.hola.com/imagenes/cocina/tecnicas-de-cocina/20200319163403/como-hacer-galletas-caseras-faciles/0-799-766/portada-galletas-adobe-m.jpg",
+    "extraInfo": "Caja 20 ud.",
+    "price": 4990
+  },
+  {
+    "id": 3,
+    "name": "Mini surtido",
+    "image": "https://static01.nyt.com/images/2020/04/10/dining/dg-three-ingredient-cookies/dg-three-ingredient-cookies-articleLarge-v2.jpg?quality=75&auto=webp&disable=upscale",
+    "extraInfo": "Caja 20 ud.",
+    "price": 4990
+  },
+  {
+    "id": 4,
+    "name": "Jugo natural frutilla",
+    "image": "https://cdn.aarp.net/content/dam/aarp/food/recipes/2018/10/1140-limofresa-gas-drink-esp.jpg",
+    "extraInfo": "500ml",
+    "price": 1990
+  },
+  {
+    "id": 5,
+    "name": "Papas fritas artesanales",
+    "image": "https://www.bbva.com/wp-content/uploads/2019/08/Dia_internacional_de_la_papa_frita_BBVA_opt-1024x559.png",
+    "extraInfo": "Caja 500grs",
+    "price": 2990
+  }
+]
